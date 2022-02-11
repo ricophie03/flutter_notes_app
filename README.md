@@ -1,6 +1,6 @@
-# sqlite_example_2
+# Notes App + Local Storage
 
-A new Flutter project.
+Notes App with SQLite database. Made using flutter.
 
 ## Getting Started
 
